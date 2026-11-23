@@ -1,4 +1,4 @@
-<img width="513" height="333" alt="image" src="https://github.com/user-attachments/assets/7e4291e1-3da2-49e8-bdd9-13f465f9aa7b" /><H3>ENTER YOUR NAME</H3>
+<H3>NAME: Mubarak R</H3>
 <H3>REGISTER NO: 212224220066</H3>
 <H3>EX. NO.3</H3>
 <H3>DATE: 23-11-26</H3>
